@@ -1,0 +1,25 @@
+body {
+background-color: rgb(185, 50, 197);
+}
+
+.titulo-principal {
+    text-align: center;
+}
+
+#banner {
+    width: 100%;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+ 
+#logotipo {
+    width: 30%;
+}
+ 
+footer {
+    text-align: center;
+}
